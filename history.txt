@@ -1,0 +1,111 @@
+    1  git config --list --show-origin
+    2  git config --global user.name "garcia57"
+    3  git config --global user.email "andy.moroni.garcia@gmail.com"
+    4  git config --list
+    8  git config user.name
+    9  git --version
+   10  git --help
+   11  git --list
+   12  git ls
+   14  git --version
+   21  git status
+   23  git config --list
+   27  cd git-practice
+   30  cd git-practice
+   31  git init
+   32  git status
+   35  rm -rf .git
+   37  git status
+   38  git init
+   41  git status
+   42  git ls -la
+   45  git-practice % ls -la
+   46  git-practice % cd ..
+   47  git-practice % cd..
+   48  mkdir git-practice-esnt
+   50  cd git-practice-esnt
+   53  rm -rf .git
+   54  cd git-practice-esnt
+   55  git init
+   64  cd git-practice
+   67  cd git-practice-esnt
+   70  git status
+   72  git commit -m 'Add File 1'
+   73  git commit
+   74  git commit -m 'Add file2.txt'
+   75  git commit
+   77  git log
+   78  git commit
+   79  git add
+   80  git add .
+   81  git commit
+   82  git commit -m 
+   83  git commit -m 'Add file1 and 2 txt'
+   84  git log
+   85  git add file 'hello_world.txt'
+   86  git add helloworld.txt
+   87  git add helloworld
+   89  git add helloworld
+   90  git add helloworld.txt
+   91  git commit -m 'Add hello world file'
+   92  git log
+   95  git rm helloworld.txt
+   98  git commit
+   99  git commit 'removed hello world'
+  100  git commit -m 'removed hello world'
+  103  git log
+  104  touch .gitignore
+  105  git add .
+  106  git commit
+  107  git commit . 'Adding a new gitignore file'
+  108  git commit -m 'Adding a new gitignore file'
+  109  git status
+  111  git add .
+  112  git log
+  116  cd git-practice
+  118  cd git-practice-esnt
+  120  git status
+  121  git commit -m 'Added txt file'
+  122  git status
+  123  git add -f
+  124  git add . -f
+  125  git ls
+  126  git status
+  127  git commit 'uh oh'
+  128  git commit -m 'uh oh'
+  129  git status
+  130  git ls
+  132  git commit
+  133  git status
+  134  git rm --cached api-keys.txt
+  135  git commit
+  136  git status
+  137  git commit -m 'testwe'
+  139  git status
+  141  git remote -v
+  142  git remote add origin https://github.com/garcia57/demo_stat386.git
+  143  git push -u origin main
+  144  git remote add origin https://www.github.com/garcia57/demo_stat386.git
+  145  git push -u origin main
+  146  git push
+  147  git push --set-upstream origin main
+  148  git credential-manager uninstall
+  149  git credential-manager uninstall
+  150  git credential-manager install
+  151  git push -u origin main
+  152  git pull
+  153  git push
+  155  git push -u origin main
+  156  git push --helps
+  157  git push --help
+  159  git push
+  160  git config --global credential.helper
+  171  touch .gitignore
+  172  git pull
+  173  git pull
+  174  git pull
+  175  git merge --abort
+  176  git pull
+  178  git log --online > gitlog.txt
+  179  git log --oneline > gitlog.txt
+  180  history | grep git > history.txt

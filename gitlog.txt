@@ -1,0 +1,13 @@
+47d891e Merge pull request #1 from engstrom1/feature-engstrom1
+171958f updated text file 1
+dc4b073 updated the new_features.txt
+18f7242 Merge branch 'features' now
+a3d2c9b renamed text file
+68c1c7b Updated file1.txt on main branch
+3ac8d68 Added New_features.txt
+462dded New branch
+cf920e2 Added new line to file1
+87ebb67 Added gitignore and readme
+673bee0 Added wording to file 2
+497878f Added text to file1
+6fd71e5 Initial commit
